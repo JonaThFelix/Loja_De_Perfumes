@@ -1,10 +1,9 @@
-
+#  Loja de Perfumes
   
 </br>![PerfumeDolceGIF](https://github.com/JonaThFelix/Loja_De_Perfumes/assets/123984244/ad8a2155-48fe-4922-b2b5-2afda8fe889f)
 
 
 
-💻 Loja de Perfumes 
 
 
 Site criado na elaboração do Inter 2022.2 conjunto com o projeto Estoque da fátima para fins acadêmico.
